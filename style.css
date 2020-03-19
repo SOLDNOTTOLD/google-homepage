@@ -1,0 +1,22 @@
+.google-logo {
+  width: 100px;
+  height: 92px;
+  text-align: center;
+  padding-top: 300px;
+  max-height: 400px;
+  position: center;
+  height: auto;
+  width: 300px;
+  padding-left: 30px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+.container {
+  padding-top: 50px;
+  text-align: center;
+  position: center;
+  border-width: 50px;
+}
+/*# sourceMappingURL=style.css.map */
